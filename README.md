@@ -8,4 +8,4 @@ Calculadora JavaScript, totalmente funcional, atendendo ao enunciado do trabalho
 Ao clicar no botão "," deve-se adicionar uma vírgula no display e permitir que o calculo seja feito considerando as casas decimais.
 Cuidar para que não possa ser inserida mais de uma vírgula, e caso não tenha nenhum número na tela, adicionar "0," '.
 
-Funcionalidade extra desenvolvida: atende ao evento "keydown".
+Funcionalidade extra desenvolvida: atende ao evento "Keydown".
